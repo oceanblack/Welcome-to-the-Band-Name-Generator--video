@@ -2,6 +2,7 @@
 "Welcome to the Band Name Generator 2 Video 
 
 #begin code
+
 #1. Create a greeting for your program.
 greeting =
 
